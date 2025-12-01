@@ -3,7 +3,7 @@ winget install Microsoft.DotNet.SDK.10
 winget install Microsoft.VisualStudioCode --override "/verysilent /mergetasks=""addcontextmenufolders,addtopath,associatewithfiles"""
 winget install Git.Git
 winget install 7zip
-winget install GnuWin32.Wget
 winget install LibreWolf.LibreWolf
 winget install keepassxc
 winget install -e --id GitHub.GitHubDesktop
+winget install Oracle.VirtualBox
