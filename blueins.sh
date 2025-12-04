@@ -1,3 +1,3 @@
 sudo dnf install -y rustup
-rustup default stable
+rustup-init default stable
 cargo install blue-build
