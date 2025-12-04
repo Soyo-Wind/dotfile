@@ -1,2 +1,3 @@
-sudo dnf install podman
-podman run --pull always --rm ghcr.io/blue-build/cli:latest-installer | bash
+sudo dnf install rustup
+rustup default stable
+cargo install blue-build
