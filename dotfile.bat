@@ -7,3 +7,4 @@ winget install LibreWolf.LibreWolf
 winget install keepassxc
 winget install -e --id GitHub.GitHubDesktop
 winget install Oracle.VirtualBox
+winget install uutils.coreutils
